@@ -8,6 +8,7 @@ The Horiseon Marketing website. The HTML and CSS page was refactored to use sema
 
 ## Links to deployed application:
 https://github.com/rajveer-s/Horiseon
+https://rajveer-s.github.io/Horiseon/
 
 
 ## Screenshot 
