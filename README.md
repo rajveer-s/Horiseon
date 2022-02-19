@@ -11,4 +11,4 @@ https://github.com/rajveer-s/Horiseon
 
 
 ## Screenshot 
-![Screenshot](assets\Screenshot.png)
+![Screenshot](Screenshot.png)
